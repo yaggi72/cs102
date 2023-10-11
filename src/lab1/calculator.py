@@ -34,3 +34,5 @@ def Calculator(num1,num2,action):
 
     if (flaq == True) and action == '/':
         return num1 / num2
+
+print(Calculator(2,"fvb",'*'))
