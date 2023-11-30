@@ -380,4 +380,6 @@ if __name__ == "__main__":
         if not solution:
             print(f"Puzzle {fname} can't be solved")
         else:
-            display(solution)
+            display(solution)#
+
+#ggogogog
